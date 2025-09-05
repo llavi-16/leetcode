@@ -1,4 +1,4 @@
-class Solution {
+class Solution3516 {
     public int findClosest(int x, int y, int z) {
         int dif1 = Math.abs(z-x);
         int dif2 = Math.abs(z-y);
