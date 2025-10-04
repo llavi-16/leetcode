@@ -1,4 +1,4 @@
-class Solution {
+class Solution3541 {
     public int maxFreqSum(String s) {
         int[] fre = new int[26];
         for(int ch: s.toCharArray()){
