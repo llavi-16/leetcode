@@ -1,4 +1,4 @@
-class Solution1365 {
+class Solution1365{
     public int[] smallerNumbersThanCurrent(int[] nums) {
         ArrayList<Integer> list = new ArrayList<>();
         for(int i =0; i<nums.length;i++){
