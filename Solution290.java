@@ -11,6 +11,7 @@ class Solution290 {
       if (charToIndex.put(pattern.charAt(i), i) != stringToIndex.put(words[i], i))
         return false;
 
+    
     return true;
   }
 }
