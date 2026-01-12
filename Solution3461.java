@@ -1,4 +1,4 @@
-class Solution3461 {
+class Solution3461{
     public boolean hasSameDigits(String s) {
         while(s.length()>2){
             StringBuilder next = new StringBuilder();
